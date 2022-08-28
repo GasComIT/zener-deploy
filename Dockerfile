@@ -1,4 +1,4 @@
-FROM quay.io/gascomit/zener:latest
+FROM quay.io/hermit/hermit-ser:latest
 
 RUN git clone https://github.com/gascomit/zener /root/zener
 WORKDIR /root/zener/
