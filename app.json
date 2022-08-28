@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/krakinz/zener",
+  "repository": "https://github.com/gascomit/zener",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -52,17 +52,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ZENER-AI;KRAKINZ;254718241545;https://i.imgur.com/6oRG106.jpeg"
+      "value": "ZENER-AI;GasComIT;254718241545;https://i.imgur.com/6oRG106.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": false,
-      "value": "Krakinz;Lab"
+      "value": "GasCom;IT"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": false,
-      "value": "Krakinz;Lab;https://i.imgur.com/fj2WE83.jpeg"
+      "value": "GasCom;IT;https://i.imgur.com/fj2WE83.jpeg"
     },
     "READ_COMMAND": {
       "description": "Read all commands",
